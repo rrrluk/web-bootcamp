@@ -1,12 +1,21 @@
 body {
+  /* background: url(https://wallpaper.wiki/wp-content/uploads/2017/05/Wood-Grain-Desktop-Backgrounds.jpg); background-repeat: no-repeat;
+  background-size: cover; */
 }
 
 h1 {
-  color: purple;
+  color: rgba(0, 0, 0, 1);
+  border-bottom: 1px solid cadetblue;
+  padding: 5px;
+}
+
+h4 {
+  background: rgba(255, 100, 100, 1);
+  padding: 5px;
 }
 
 li {
-  color: orange;
+  color: rgba(0, 0, 0, 0.5);
 }
 
 .block200 {

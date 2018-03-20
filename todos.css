@@ -1,0 +1,17 @@
+/* ELEMENT SELECTOR */
+
+ul {
+  list-style-type: none;
+}
+
+/* ID SELECTOR */
+
+#special {
+  background: red;
+}
+
+/* CLASS SELECTOR */
+
+.completed {
+  text-decoration: line-through;
+}
