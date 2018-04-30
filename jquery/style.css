@@ -1,0 +1,29 @@
+body {
+  font-weight: 700;
+}
+
+button {
+  font-weight: 700;
+}
+.correct {
+  color: green;
+}
+
+.wrong {
+  color: red;
+  background: black;
+}
+
+.done {
+  color: gray;
+  text-decoration: line-through;
+}
+
+.fades {
+  width: 200px;
+  height: 200px;
+  background-color: darkorange;
+  margin-right: 20px;
+  padding: 10px;
+  float: left;
+}
